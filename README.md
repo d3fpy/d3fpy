@@ -4,5 +4,3 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,figma,linux,lua)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=obsidian,pycharm,qt,vscode,ps)](https://skillicons.dev)
-
-![](https://profile-summary-for-github.com/user/d3fpy)
