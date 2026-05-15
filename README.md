@@ -1,5 +1,10 @@
 # 👋 Hi! I'm d3fpy
 
+```
+def function():
+    pass
+```
+
 # My skills:
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,figma,linux,lua)](https://skillicons.dev)
