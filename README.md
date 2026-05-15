@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&duration=10000&pause=998&color=24BDF7&width=435&lines=%F0%9F%91%8BHi!+I'm+d3fpy)](https://git.io/typing-svg)
+# 👋Hi! I'm d3fpy
 
 # My skills:
 
