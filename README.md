@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&pause=998&color=24BDF7&width=435&lines=%F0%9F%91%8B+Hi!+I'm+d3fpy)](https://git.io/typing-svg)
+# 
 
-# My skills:
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=SF+Pro&duration=10000&pause=998&color=24BDF7&width=435&lines=My+skills%3A)](https://git.io/typing-svg)
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,figma,linux,lua)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=obsidian,pycharm,qt,vscode,ps)](https://skillicons.dev)
