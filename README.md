@@ -1,6 +1,6 @@
 # 👋Hi! I'm d3fpy
 
-Python-Develop
+Python-Developing
 
 # My skills:
 
