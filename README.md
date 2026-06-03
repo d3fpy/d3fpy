@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,bootstrap,figma,linux,lua)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=obsidian,pycharm,qt,vscode,ps)](https://skillicons.dev)
 
-![](https://www.image2url.com/r2/default/gifs/1778876799395-24fd1f11-6d3b-4548-b7d9-f637db911152.gif)
+![](https://github.com/d3fpy/d3fpy/blob/main/54d9928d8e9011524843c2dbd35b68fa%20(3).gif?raw=true)
