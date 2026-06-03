@@ -1,6 +1,6 @@
-# 👋hi i'm d3fpy
+# 👋Hi I'm d3fpy
 
-14 y.o python backend developer
+## 14 y.o python backend developer
 
 # My skills:
 
