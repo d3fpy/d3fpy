@@ -1,6 +1,6 @@
 # 👋Hi I'm d3fpy
 
-### 14 years old junior python backend developer
+### 14-year-old junior python backend developer
 
 # My skills:
 
