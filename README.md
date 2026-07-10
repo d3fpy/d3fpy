@@ -23,12 +23,12 @@
 │                                              │
 │  I like:                                     │
 │                                              │
-│   • Python                                   │
-│   • Reverse Engineering                      │
-│   • Linux Applications                       │
+│   • python                                   │
+│   • reverse engineering                      │
+│   • linux applications                       │
 │   • C, C# and etc                            │
-│   • Some cybersecurity                       │
-│   • Love computers and internet              │
+│   • some cybersecurity                       │
+│   • love computers and internet              │
 │                                              │
 ╰──────────────────────────────────────────────╯
 ```
