@@ -3,7 +3,7 @@
 ![ ](https://gradient-svg-generator.vercel.app/api/svg?text=+&height=109&gradientType=star&duration=8s&color0=ce0dbe&color1=9e2e9a&color2=e125e4&color3=ffffff)
 ### Python • Backend • FastAPI
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=14-year-old+Developer;Self-taught+Programmer;Python Backend Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=600&lines=14-year-old+Developer;Self-taught+Programmer;Python Backend Developer" alt="Typing SVG">
 
 </div>
 
