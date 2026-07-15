@@ -17,20 +17,23 @@
 ## About Me
 
 ```
-╭──────────────────────────────────────────────╮
-│                                              │
-│  14-year-old self-taught developer           │
-│                                              │
-│  I like:                                     │
-│                                              │
-│   • python                                   │
-│   • reverse engineering                      │
-│   • linux applications                       │
-│   • C, C# and etc                            │
-│   • some cybersecurity                       │
-│   • love computers and internet              │
-│                                              │
-╰──────────────────────────────────────────────╯
+.        *        .            .    *        .
+  *        .         *         .  *          .    *
+        .    *   ╭──────────────────────────────────────────────╮   .
+   .            *│                                              │      *
+         .       │  14-year-old self-taught developer           │  .
+   *   .    .    │                                              │    *
+              *  │  I like:                                     │  .
+      .          │                                              │      *
+  *       .      │   • python                                   │  *
+         .    *  │   • reverse engineering                      │    .
+   .             │   • linux applications                       │ *
+      *      .   │   • C, C# and etc                            │      .
+              *  │   • some cybersecurity                       │  .    *
+   .      *      │   • love computers and internet              │
+         .       │                                              │  *   .
+  *   .          ╰──────────────────────────────────────────────╯      *
+      .    *        .         *       .    *          .        *
 ```
 
 ---
@@ -49,33 +52,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3fpy&theme=tokyo-night&hide_border=true&cb=1" width="90%" />
 </p>
----
-
-## Terminal
-
-<p align="center">
-  <img src="assets/terminal.gif" width="550" />
-</p>
-
-<!--
-  Generated with tapegif (https://tapegif.mimrgrowthlab.com/)
-  PROMPT: d3fpy @ dev : ~
-  SCRIPT:
-  $ whoami
-  d3fpy
-  $ uvicorn main:app --reload
-  INFO:     Uvicorn running on http://127.0.0.1:8000
-  $ docker compose up -d
-  ✔ Container postgres_db  Started
-  ✔ Container fastapi_app  Started
-  $ gcc hello.c -o hello
-  $ ./hello
-  Hello user!
-  $ echo "where coding meets insomnia"
-  3am. anywhere.
-  Upload the exported GIF to your repo (e.g. assets/terminal.gif) and update the src above.
--->
-
 ---
 
 
