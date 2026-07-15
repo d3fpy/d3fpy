@@ -1,0 +1,66 @@
+<svg width="720" height="390" viewBox="0 0 720 390" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="720" height="390" fill="#05070f" rx="12"/>
+
+  <!-- stars -->
+  <g>
+    <circle cx="24" cy="18" r="1.1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="58" cy="42" r="0.9" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="97" cy="15" r="1.3" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="140" cy="55" r="1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.1s" repeatCount="indefinite"/></circle>
+    <circle cx="180" cy="20" r="0.8" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="215" cy="60" r="1.2" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="255" cy="25" r="0.9" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="295" cy="48" r="1" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.9;0.3;0.9" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="335" cy="16" r="1.1" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="370" cy="58" r="0.8" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="410" cy="22" r="1.3" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="450" cy="50" r="0.9" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="490" cy="18" r="1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="530" cy="55" r="1.2" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="570" cy="24" r="0.8" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="610" cy="46" r="1.1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="650" cy="14" r="0.9" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="690" cy="52" r="1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.3s" repeatCount="indefinite"/></circle>
+
+    <circle cx="15" cy="300" r="1" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="50" cy="330" r="1.2" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="90" cy="305" r="0.8" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="3.1s" repeatCount="indefinite"/></circle>
+    <circle cx="130" cy="335" r="1.1" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.2s" repeatCount="indefinite"/></circle>
+    <circle cx="165" cy="310" r="0.9" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.8;0.3;0.8" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="205" cy="340" r="1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="245" cy="308" r="1.3" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="3.2s" repeatCount="indefinite"/></circle>
+    <circle cx="500" cy="315" r="1" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="335" r="0.9" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.7;0.1;0.7" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="580" cy="305" r="1.2" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.0s" repeatCount="indefinite"/></circle>
+    <circle cx="620" cy="332" r="0.8" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.8;0.2;0.8" dur="2.7s" repeatCount="indefinite"/></circle>
+    <circle cx="660" cy="312" r="1.1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="340" r="1" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.9;0.3;0.9" dur="3.1s" repeatCount="indefinite"/></circle>
+
+    <circle cx="10" cy="150" r="0.9" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.3;0.9;0.3" dur="2.8s" repeatCount="indefinite"/></circle>
+    <circle cx="10" cy="200" r="1.1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.8;0.1;0.8" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="705" cy="150" r="1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="705" cy="210" r="0.8" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="2.3s" repeatCount="indefinite"/></circle>
+    <circle cx="700" cy="90" r="1.2" fill="#ffffff" opacity="0.7"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.3s" repeatCount="indefinite"/></circle>
+    <circle cx="20" cy="90" r="0.9" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.9;0.2;0.9" dur="2.6s" repeatCount="indefinite"/></circle>
+    <circle cx="20" cy="255" r="1" fill="#ffffff" opacity="0.5"><animate attributeName="opacity" values="0.2;0.8;0.2" dur="2.4s" repeatCount="indefinite"/></circle>
+    <circle cx="695" cy="260" r="1.1" fill="#ffffff" opacity="0.6"><animate attributeName="opacity" values="0.6;0.1;0.6" dur="3.0s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ascii box -->
+  <g font-family="Consolas, Menlo, Monaco, monospace" font-size="15" fill="#e8ecf7">
+    <text x="20" y="90" xml:space="preserve">╭──────────────────────────────────────────────╮</text>
+    <text x="20" y="110" xml:space="preserve">│                                              │</text>
+    <text x="20" y="130" xml:space="preserve">│  14-year-old self-taught developer           │</text>
+    <text x="20" y="150" xml:space="preserve">│                                              │</text>
+    <text x="20" y="170" xml:space="preserve">│  I like:                                     │</text>
+    <text x="20" y="190" xml:space="preserve">│                                              │</text>
+    <text x="20" y="210" xml:space="preserve">│   • python                                   │</text>
+    <text x="20" y="230" xml:space="preserve">│   • reverse engineering                      │</text>
+    <text x="20" y="250" xml:space="preserve">│   • linux applications                       │</text>
+    <text x="20" y="270" xml:space="preserve">│   • C, C# and etc                            │</text>
+    <text x="20" y="290" xml:space="preserve">│   • some cybersecurity                       │</text>
+    <text x="20" y="310" xml:space="preserve">│   • love computers and internet              │</text>
+    <text x="20" y="330" xml:space="preserve">│                                              │</text>
+    <text x="20" y="350" xml:space="preserve">╰──────────────────────────────────────────────╯</text>
+  </g>
+</svg>
