@@ -1,6 +1,6 @@
 <div align="center">
 
-![ ](https://gradient-svg-generator.vercel.app/api/svg?text=+&height=109&gradientType=star&duration=8s&color0=ce0dbe&color1=9e2e9a&color2=e125e4&color3=ffffff)
+<img src="assets/hello1.png"  width="550" style="padding-right: 25px;"  />
 
 ### Python • Backend • FastAPI
 
