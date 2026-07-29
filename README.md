@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="assets/hello1.png"  width="550" style="padding-right: 25px;"  />
 
 ### Python • Backend • FastAPI
 
@@ -52,7 +51,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=d3fpy&theme=tokyo-night&hide_border=true&cb=1" width="90%" />
 </p>
----
 
 
 ## Contribution Snake
