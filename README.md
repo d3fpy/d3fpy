@@ -1,6 +1,6 @@
 <div align="center">
 
-<a src = "https://github.com/d3fpy/">
+<a href="https://github.com/d3fpy/">
   <img src="assets/www.png" width='850' />
 </a>
 
