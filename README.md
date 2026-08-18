@@ -1,5 +1,6 @@
 <div align="center">
 
+<img src="assets/www.png" width='850' />
 
 ### Python • Backend • FastAPI
 
