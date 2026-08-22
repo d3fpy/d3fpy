@@ -5,7 +5,7 @@
 </a>
 
 
-### Python • Backend • FastAPI
+### python • backend • fastapi
 
 
 
@@ -17,7 +17,7 @@
 
 ---
 
-## About Me
+## about me
 
 ```
 .        *        .            .    *        .
@@ -26,7 +26,7 @@
    .            *│                                              │      *
          .       │  14-year-old self-taught developer           │  .
    *   .    .    │                                              │    *
-              *  │  I like:                                     │  .
+              *  │  I love:                                     │  .
       .          │                                              │      *
   *       .      │   • python                                   │  *
          .    *  │   • reverse engineering                      │    .
@@ -41,7 +41,7 @@
 
 ---
 
-## GitHub Stats
+## stats
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=d3fpy&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="48%" />
@@ -57,6 +57,6 @@
 </p>
 
 
-## Contribution Snake
+## snake
 
 ![snake gif](https://github.com/d3fpy/d3fpy/blob/output/github-snake-dark.svg)
