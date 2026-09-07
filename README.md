@@ -40,6 +40,7 @@
 <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" />
 <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" />
 </td>
 </tr>
 <tr>
