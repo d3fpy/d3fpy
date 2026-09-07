@@ -55,6 +55,7 @@
 <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
 <img src="https://img.shields.io/badge/pypi-%23ececec.svg?style=for-the-badge&logo=pypi&logoColor=1f73b7" />
 <img src="https://img.shields.io/badge/prettier-%23192a32.svg?style=for-the-badge&logo=prettier&logoColor=dc524a" />
+<img src="https://img.shields.io/badge/virtualbox-%23183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
 </td>
 </tr>
 <tr>
