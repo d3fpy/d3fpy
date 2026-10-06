@@ -8,7 +8,7 @@
 ### stack:
 <table>
 <tr>
-<td><b>Languages</b></td>
+<td><b>languages</b></td>
 <td>
 <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,14 +17,14 @@
 </td>
 </tr>
 <tr>
-<td><b>Backend</b></td>
+<td><b>backend</b></td>
 <td>
 <img src="https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Frontend</b></td>
+<td><b>frontend</b></td>
 <td>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
@@ -34,7 +34,7 @@
 </td>
 </tr>
 <tr>
-<td><b>AI Tools</b></td>
+<td><b>ai tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/claude-%23D97757.svg?style=for-the-badge&logo=claude&logoColor=white" />
 <img src="https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white" />
@@ -44,10 +44,11 @@
 <img src="https://img.shields.io/badge/Cursor-%23000000.svg?style=for-the-badge&logo=Cursor&logoColor=white" />
 <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white" />
 <img src="https://img.shields.io/badge/n8n-%23EA4B71.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff" />
 </td>
 </tr>
 <tr>
-<td><b>DevOps & Tools</b></td>
+<td><b>devops & tools</b></td>
 <td>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -63,23 +64,24 @@
 </td>
 </tr>
 <tr>
-<td><b>IDE / Editors</b></td>
+<td><b>ide</b></td>
 <td>
   
 <img src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=for-the-badge&logo=jetbrains&logoColor=white" />
 <img src="https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
 <img src="https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+<img src="https://img.shields.io/badge/phpstorm-%23000000.svg?style=for-the-badge&logo=phpstorm&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>Design</b></td>
+<td><b>design</b></td>
 <td>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white" />
 </td>
 </tr>
 <tr>
-<td><b>OS</b></td>
+<td><b>os</b></td>
 <td>
 <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/Linux%20Mint-%2387CF3E.svg?style=for-the-badge&logo=Linux%20Mint&logoColor=white" />
