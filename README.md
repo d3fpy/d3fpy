@@ -118,9 +118,9 @@ I love:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3fpy&theme=tokyonight&hide_border=true&cb=1" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=d3fpy&theme=tokyonight&hide_border=true&cb=1" width="48%" style="vertical-align: middle;" />
+  <img src="https://monkeytypecard.vercel.app/monkeytype.svg?username=d3fpyy&theme=monokai&wordValue=10&timeValue=15" width="48%" style="vertical-align: middle;" />
 </p>
-
 
 ## snake
 
