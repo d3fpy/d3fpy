@@ -99,15 +99,26 @@
 
 ### about me
 
-```
-14-year-old self-taught developer
-I love:
-• python
-• reverse engineering
-• linux applications
-• C, C# and etc
-• some cybersecurity
-• very love computers 
+```python
+class Whoami:
+    def __init__(self):
+        self.age = 14
+        self.status = "self-taught developer"
+        self.passions = ["computers", "some cybersecurity"]
+        self.languages = ["python", "c", "c#"]
+        self.interests = ["reverse engineering", "linux applications",'debian ❤']
+
+    def introduce(self):
+        print(f"hi, I'm a {self.age} year old {self.status}.")
+        print(f'my stack {self.languages}')
+        print(f'my interests {self.interests}')
+
+whoami = Whoami()
+whoami.introduce()
+
+# hi, I'm a 14 year old self-taught developer.  
+# my stack ['Python', 'C', 'C#']
+# my interests ['reverse engineering', 'linux applications', 'debian ❤']
 ```
 
 ---
