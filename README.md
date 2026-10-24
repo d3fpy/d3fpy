@@ -11,7 +11,7 @@
 
 </div>
 
-### stack:
+### skills:
 <table>
 <tr>
 <td><b>languages</b></td>
