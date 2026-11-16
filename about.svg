@@ -1,0 +1,139 @@
+<svg width="880" height="320" viewBox="0 0 880 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="metal-base" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#171722"/>
+      <stop offset="50%" stop-color="#111119"/>
+      <stop offset="100%" stop-color="#09090e"/>
+    </linearGradient>
+    <linearGradient id="metal-sheen" x1="0%" y1="0%" x2="100%" y2="80%">
+      <stop offset="0%" stop-color="#5a6282" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#aeb7db" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#353952" stop-opacity="0.1"/>
+    </linearGradient>
+    <radialGradient id="steel-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8b98c7" stop-opacity="0.4"/>
+      <stop offset="60%" stop-color="#2d3147" stop-opacity="0.15"/>
+      <stop offset="100%" stop-color="#111119" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="indigo-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#766ea8" stop-opacity="0.32"/>
+      <stop offset="100%" stop-color="#111119" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="heavy-metal-blur" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="52"/>
+    </filter>
+    <filter id="cursor-depth" x="-10%" y="-40%" width="120%" height="200%">
+      <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#040407" flood-opacity="0.8"/>
+    </filter>
+    <filter id="neon-glow" x="-150%" y="-50%" width="400%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <linearGradient id="plate-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#dbe2ff" stop-opacity="0.12"/>
+      <stop offset="45%" stop-color="#aeb7db" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.28"/>
+    </linearGradient>
+    <linearGradient id="bevel-stroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#dce3ff" stop-opacity="0.3"/>
+      <stop offset="35%" stop-color="#aeb7db" stop-opacity="0.07"/>
+      <stop offset="70%" stop-color="#000000" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#dce3ff" stop-opacity="0.14"/>
+    </linearGradient>
+    <clipPath id="banner-clip">
+      <rect width="880" height="320" rx="14"/>
+    </clipPath>
+    <linearGradient id="fade-mask-grad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="black" stop-opacity="0"/>
+      <stop offset="10%" stop-color="white" stop-opacity="1"/>
+      <stop offset="90%" stop-color="white" stop-opacity="1"/>
+      <stop offset="100%" stop-color="black" stop-opacity="0"/>
+    </linearGradient>
+    <mask id="drum-mask">
+      <rect x="0" y="0" width="880" height="320" fill="url(#fade-mask-grad)"/>
+    </mask>
+    <g id="drum-block">
+      <g transform="translate(0, 0)">
+        <text x="32" y="21" class="offset">00000000</text>
+        <text x="125" y="21" class="hex">31 34 2d 79 65 61 72 2d 6f 6c</text>
+        <text x="415" y="21" class="hex">64 20 73 65 6c 66 2d 74 61 75</text>
+        <text x="705" y="21" class="ascii"><tspan class="white">14-year-old</tspan> <tspan class="silver">self-tau</tspan></text>
+      </g>
+      <g transform="translate(0, 45)">
+        <text x="32" y="21" class="offset">00000014</text>
+        <text x="125" y="21" class="hex">67 68 74 20 64 65 76 65 6c 6f</text>
+        <text x="415" y="21" class="hex">70 65 72 2e 20 49 20 6c 6f 76</text>
+        <text x="705" y="21" class="ascii"><tspan class="silver">ght developer</tspan>. I <tspan class="silver">lov</tspan></text>
+      </g>
+      <g transform="translate(0, 90)">
+        <text x="32" y="21" class="offset">00000028</text>
+        <text x="125" y="21" class="hex">65 3a 20 70 79 74 68 6f 6e 2c</text>
+        <text x="415" y="21" class="hex">20 76 69 62 65 63 6f 64 69 6e</text>
+        <text x="705" y="21" class="ascii"><tspan class="silver">e</tspan>: <tspan class="ice">python</tspan>, <tspan class="ice">vibecodin</tspan></text>
+      </g>
+      <g transform="translate(0, 135)">
+        <text x="32" y="21" class="offset">0000003c</text>
+        <text x="125" y="21" class="hex">67 2c 20 61 69 2d 65 6e 67 69</text>
+        <text x="415" y="21" class="hex">6e 65 65 72 69 6e 67 2c 20 72</text>
+        <text x="705" y="21" class="ascii"><tspan class="ice">g</tspan>, <tspan class="ice">ai-engineering</tspan>, <tspan class="white">r</tspan></text>
+      </g>
+      <g transform="translate(0, 180)">
+        <text x="32" y="21" class="offset">00000050</text>
+        <text x="125" y="21" class="hex">65 76 65 72 73 65 20 65 6e 67</text>
+        <text x="415" y="21" class="hex">69 6e 65 65 72 69 6e 67 2c 20</text>
+        <text x="705" y="21" class="ascii"><tspan class="white">everse engineering</tspan>, </text>
+      </g>
+      <g transform="translate(0, 225)">
+        <text x="32" y="21" class="offset">00000064</text>
+        <text x="125" y="21" class="hex">43 2c 20 43 23 20 61 6e 64 20</text>
+        <text x="415" y="21" class="hex">65 74 63 2c 20 73 6f 6d 65 20</text>
+        <text x="705" y="21" class="ascii"><tspan class="ice">C</tspan>, <tspan class="ice">C#</tspan> and etc, some </text>
+      </g>
+      <g transform="translate(0, 270)">
+        <text x="32" y="21" class="offset">00000078</text>
+        <text x="125" y="21" class="hex">63 79 62 65 72 73 65 63 75 72</text>
+        <text x="415" y="21" class="hex">69 74 79 2e 20 20 20 20 20 20</text>
+        <text x="705" y="21" class="ascii"><tspan class="silver">cybersecurity</tspan>.      </text>
+      </g>
+    </g>
+  </defs>
+  <style>
+    text {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+      font-size: 14.5px;
+    }
+    .offset { fill: #525770; }
+    .hex    { fill: #8b92b2; }
+    .ascii  { fill: #7c83a3; }
+    .ice    { fill: #84d2e8; }
+    .silver { fill: #b8a8e6; }
+    .white  { fill: #f0f3ff; font-weight: bold; }
+  </style>
+  <g clip-path="url(#banner-clip)">
+    <rect width="880" height="320" fill="url(#metal-base)"/>
+    <g filter="url(#heavy-metal-blur)">
+      <ellipse cx="260" cy="110" rx="360" ry="140" fill="url(#metal-sheen)">
+        <animateTransform attributeName="transform" type="translate" values="-60 -25; 180 45; -60 -25" dur="14s" repeatCount="indefinite"/>
+      </ellipse>
+      <circle cx="640" cy="210" r="250" fill="url(#steel-glow)">
+        <animateTransform attributeName="transform" type="translate" values="50 30; -160 -40; 50 30" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="420" cy="160" r="210" fill="url(#indigo-glow)">
+        <animateTransform attributeName="transform" type="translate" values="-40 40; 120 -30; -40 40" dur="12s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <g mask="url(#drum-mask)">
+      <g>
+        <animateTransform attributeName="transform" type="translate"
+                          values="0 0; 0 -315" dur="12s" repeatCount="indefinite"/>
+        <use href="#drum-block" y="0"/>
+        <use href="#drum-block" y="315"/>
+        <use href="#drum-block" y="630"/>
+      </g>
+    </g>
+    <rect x="0.5" y="0.5" width="879" height="319" rx="14" fill="none" stroke="url(#bevel-stroke)"/>
+  </g>
+</svg>
