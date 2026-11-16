@@ -1,11 +1,8 @@
 <div align="center">
 
-<p>
-  <h1>d3fpy (notmea)</h1>
-</p>
 
 <a href="https://github.com/d3fpy/">
-  <img src="assets/www.png" width='850' />
+  <img src="about.svg" width='850' height='700' />
 </a>
 
 
@@ -102,32 +99,6 @@
 </td>
 </tr>
 </table>
-
-### about me
-
-```python
-class Whoami:
-    def __init__(self):
-        self.age = 14
-        self.status = "self-taught developer"
-        self.passions = ["computers", "some cybersecurity"]
-        self.languages = ["python", "c", "c#"]
-        self.interests = ["reverse engineering", "linux applications",'debian ❤']
-
-    def introduce(self):
-        print(f"hi, I'm a {self.age} year old {self.status}.")
-        print(f'my stack {self.languages}')
-        print(f'my interests {self.interests}')
-
-whoami = Whoami()
-whoami.introduce()
-
-# hi, I'm a 14 year old self-taught developer.  
-# my stack ['Python', 'C', 'C#']
-# my interests ['reverse engineering', 'linux applications', 'debian ❤']
-```
-
----
 
 ## stats
 
